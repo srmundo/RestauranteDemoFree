@@ -22,6 +22,10 @@
 - **No External Database**: For now, the app uses **localStorage** to store data locally, making it easy to set up and use immediately. Improvements and additional features are planned for future updates!
 
 ---
+## Screenshots 📸
+### Main Interface
+![Main interface of RestauranteDemoFree](screenshot/screencapture-melodious-moxie-ff552b-netlify-app-2025-02-01-16_21_11.png)
+---
 
 ## Getting Started 🚀
 
