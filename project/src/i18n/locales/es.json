@@ -1,0 +1,120 @@
+{
+  "login": {
+    "welcome": "Bienvenido a RestauranteDemoFree",
+    "description": "Ingresa el nombre de tu restaurante y contraseña para continuar",
+    "enter": "Ingresar",
+    "demoCredentials": "Información de Demo",
+    "defaultPassword": "Contraseña por defecto",
+    "sampleName": "Nombre de restaurante de ejemplo",
+    "showPassword": "Mostrar",
+    "hidePassword": "Ocultar",
+    "errorRestaurantName": "Por favor ingresa un nombre de restaurante",
+    "errorPassword": "Contraseña incorrecta"
+  },
+  "common": {
+    "dineIn": "Comer aquí",
+    "takeaway": "Para llevar",
+    "total": "Total",
+    "pay": "Pagar",
+    "cancel": "Cancelar",
+    "add": "Agregar",
+    "remove": "Eliminar",
+    "cash": "Efectivo",
+    "card": "Tarjeta",
+    "change": "Cambio",
+    "amountReceived": "Monto recibido",
+    "tableNumber": "Número de Mesa",
+    "customerName": "Nombre del Cliente",
+    "confirm": "Confirmar",
+    "create": "Crear",
+    "close": "Cerrar"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "products": "Productos",
+    "restaurant": "Restaurante",
+    "sales": "Ventas",
+    "cashFlow": "Flujo de Caja",
+    "settings": "Configuración",
+    "logout": "Cerrar Sesión"
+  },
+  "products": {
+    "title": "Productos",
+    "add": "Agregar producto",
+    "name": "Nombre",
+    "price": "Precio",
+    "category": "Categoría"
+  },
+  "orders": {
+    "title": "Pedidos",
+    "new": "Nuevo pedido",
+    "items": "Artículos",
+    "orderType": "Tipo de pedido",
+    "printReceipt": "Imprimir Recibo"
+  },
+  "payment": {
+    "title": "Pago",
+    "method": "Método de pago",
+    "complete": "Completar pago",
+    "methods": {
+      "cash": "Efectivo",
+      "credit": "Tarjeta de Crédito",
+      "debit": "Tarjeta de Débito",
+      "vr": "VR",
+      "pix": "PIX"
+    }
+  },
+  "receipt": {
+    "title": "Recibo de Pedido",
+    "restaurantName": "Nombre del Restaurante",
+    "address": "Dirección",
+    "phone": "Teléfono",
+    "date": "Fecha",
+    "time": "Hora",
+    "orderNumber": "Número de Pedido",
+    "orderDetails": "Detalles del Pedido",
+    "quantity": "Cantidad",
+    "description": "Descripción",
+    "unitPrice": "Precio Unitario",
+    "total": "Total",
+    "totalToPay": "Total a Pagar",
+    "print": "Imprimir Recibo"
+  },
+  "settings": {
+    "title": "Configuración",
+    "language": "Idioma",
+    "currency": "Moneda",
+    "paymentMethods": "Métodos de Pago",
+    "restaurantInfo": "Información del Restaurante",
+    "restaurantName": "Nombre del Restaurante",
+    "restaurantAddress": "Dirección",
+    "restaurantPhone": "Teléfono",
+    "password": "Contraseña",
+    "newPassword": "Nueva Contraseña",
+    "updatePassword": "Actualizar Contraseña"
+  },
+  "cashFlow": {
+    "title": "Flujo de Caja",
+    "new": "Nuevo Flujo de Caja",
+    "close": "Cerrar Caja",
+    "closing": "Cerrando Caja",
+    "closeAndPrint": "Cerrar e Imprimir",
+    "initialAmount": "Monto Inicial",
+    "sales": "Ventas",
+    "expenses": "Gastos",
+    "paymentMethods": "Métodos de Pago",
+    "transactions": "Transacciones",
+    "date": "Fecha",
+    "closingTime": "Hora de Cierre",
+    "openingTime": "Hora de Apertura",
+    "cashier": "Cajero",
+    "cashierName": "Nombre del Cajero",
+    "cashierSignature": "Firma del Cajero",
+    "salesSummary": "Resumen de Ventas",
+    "totalSales": "Ventas Totales",
+    "actual": "Real",
+    "difference": "Diferencia",
+    "closingReceipt": "Recibo de Cierre",
+    "closedCashFlows": "Cajas Cerradas"
+  }
+}

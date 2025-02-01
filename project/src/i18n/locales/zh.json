@@ -1,0 +1,63 @@
+{
+  "common": {
+    "dineIn": "堂食",
+    "takeaway": "外带",
+    "total": "总计",
+    "pay": "支付",
+    "cancel": "取消",
+    "add": "添加",
+    "remove": "删除",
+    "cash": "现金",
+    "card": "卡",
+    "change": "找零",
+    "amountReceived": "收到金额",
+    "categories": {
+      "food": "食物",
+      "drink": "饮品"
+    },
+    "create": "创建",
+    "close": "关闭"
+  },
+  "products": {
+    "title": "产品",
+    "add": "添加产品",
+    "name": "名称",
+    "price": "价格",
+    "category": "类别"
+  },
+  "orders": {
+    "title": "订单",
+    "new": "新订单",
+    "items": "项目",
+    "orderType": "订单类型"
+  },
+  "payment": {
+    "title": "支付",
+    "method": "支付方式",
+    "complete": "完成支付"
+  },
+  "cashFlow": {
+    "title": "现金流",
+    "new": "新建现金流",
+    "close": "关闭现金流",
+    "closing": "结算现金流",
+    "closeAndPrint": "关闭并打印",
+    "initialAmount": "初始金额",
+    "sales": "销售",
+    "expenses": "支出",
+    "paymentMethods": "支付方式",
+    "transactions": "交易",
+    "date": "日期",
+    "closingTime": "关闭时间",
+    "openingTime": "开启时间",
+    "cashier": "收银员",
+    "cashierName": "收银员姓名",
+    "cashierSignature": "收银员签名",
+    "salesSummary": "销售汇总",
+    "totalSales": "总销售额",
+    "actual": "实际",
+    "difference": "差额",
+    "closingReceipt": "结算单",
+    "closedCashFlows": "已关闭的现金流"
+  }
+}

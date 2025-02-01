@@ -1,0 +1,63 @@
+{
+  "common": {
+    "dineIn": "В ресторане",
+    "takeaway": "На вынос",
+    "total": "Итого",
+    "pay": "Оплатить",
+    "cancel": "Отмена",
+    "add": "Добавить",
+    "remove": "Удалить",
+    "cash": "Наличные",
+    "card": "Карта",
+    "change": "Сдача",
+    "amountReceived": "Получено",
+    "categories": {
+      "food": "Еда",
+      "drink": "Напитки"
+    },
+    "create": "Создать",
+    "close": "Закрыть"
+  },
+  "products": {
+    "title": "Продукты",
+    "add": "Добавить продукт",
+    "name": "Название",
+    "price": "Цена",
+    "category": "Категория"
+  },
+  "orders": {
+    "title": "Заказы",
+    "new": "Новый заказ",
+    "items": "Позиции",
+    "orderType": "Тип заказа"
+  },
+  "payment": {
+    "title": "Оплата",
+    "method": "Способ оплаты",
+    "complete": "Завершить оплату"
+  },
+  "cashFlow": {
+    "title": "Движение Денежных Средств",
+    "new": "Новая Смена",
+    "close": "Закрыть Смену",
+    "closing": "Закрытие Смены",
+    "closeAndPrint": "Закрыть и Распечатать",
+    "initialAmount": "Начальная Сумма",
+    "sales": "Продажи",
+    "expenses": "Расходы",
+    "paymentMethods": "Способы Оплаты",
+    "transactions": "Транзакции",
+    "date": "Дата",
+    "closingTime": "Время Закрытия",
+    "openingTime": "Время Открытия",
+    "cashier": "Кассир",
+    "cashierName": "Имя Кассира",
+    "cashierSignature": "Подпись Кассира",
+    "salesSummary": "Сводка Продаж",
+    "totalSales": "Общие Продажи",
+    "actual": "Фактически",
+    "difference": "Разница",
+    "closingReceipt": "Чек Закрытия Смены",
+    "closedCashFlows": "Закрытые Смены"
+  }
+}

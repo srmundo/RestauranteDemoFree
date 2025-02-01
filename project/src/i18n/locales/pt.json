@@ -1,0 +1,63 @@
+{
+  "common": {
+    "dineIn": "Comer aqui",
+    "takeaway": "Para levar",
+    "total": "Total",
+    "pay": "Pagar",
+    "cancel": "Cancelar",
+    "add": "Adicionar",
+    "remove": "Remover",
+    "cash": "Dinheiro",
+    "card": "Cartão",
+    "change": "Troco",
+    "amountReceived": "Valor recebido",
+    "categories": {
+      "food": "Comida",
+      "drink": "Bebidas"
+    },
+    "create": "Criar",
+    "close": "Fechar"
+  },
+  "products": {
+    "title": "Produtos",
+    "add": "Adicionar produto",
+    "name": "Nome",
+    "price": "Preço",
+    "category": "Categoria"
+  },
+  "orders": {
+    "title": "Pedidos",
+    "new": "Novo pedido",
+    "items": "Itens",
+    "orderType": "Tipo de pedido"
+  },
+  "payment": {
+    "title": "Pagamento",
+    "method": "Método de pagamento",
+    "complete": "Completar pagamento"
+  },
+  "cashFlow": {
+    "title": "Fluxo de Caixa",
+    "new": "Novo Fluxo de Caixa",
+    "close": "Fechar Caixa",
+    "closing": "Fechando Caixa",
+    "closeAndPrint": "Fechar e Imprimir",
+    "initialAmount": "Valor Inicial",
+    "sales": "Vendas",
+    "expenses": "Despesas",
+    "paymentMethods": "Métodos de Pagamento",
+    "transactions": "Transações",
+    "date": "Data",
+    "closingTime": "Hora de Fechamento",
+    "openingTime": "Hora de Abertura",
+    "cashier": "Caixa",
+    "cashierName": "Nome do Caixa",
+    "cashierSignature": "Assinatura do Caixa",
+    "salesSummary": "Resumo de Vendas",
+    "totalSales": "Vendas Totais",
+    "actual": "Real",
+    "difference": "Diferença",
+    "closingReceipt": "Recibo de Fechamento",
+    "closedCashFlows": "Caixas Fechados"
+  }
+}
